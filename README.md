@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://wallpapercat.com/w/full/7/3/d/1059147-2000x1355-desktop-hd-python-snake-wallpaper-image.jpg" width="550" height="550" style="border-radius: 50%;" alt="profile-pic"/>
+  <img src="https://wallpapercat.com/w/full/7/3/d/1059147-2000x1355-desktop-hd-python-snake-wallpaper-image.jpg" width="950" height="550" style="border-radius: 50%;" alt="profile-pic"/>
 </p>
 
 <h1 align="center">
