@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://your-image-url.com/your-photo.jpg](https://api.reliasoftware.com/uploads/Top_Python_Tools_Every_Python_Developer_Should_Know_About_ea578c8599.webp)" width="150" height="150" style="border-radius: 50%;" alt="profile-pic"/>
+  <img src="https://wp-int-blog.s3.eu-central-1.amazonaws.com/wp-content/uploads/2023/09/13124930/Junior-Python-Developer_diana_grytsku_freepik-scaled.jpg" width="150" height="150" style="border-radius: 50%;" alt="profile-pic"/>
 </p>
 
 <h1 align="center">
